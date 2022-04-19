@@ -1,3 +1,5 @@
+##Code of Airbnb Data Analytics Project by Daniel Carey
+
 from matplotlib import pyplot as plt
 import pandas as pd
 import seaborn as sns
